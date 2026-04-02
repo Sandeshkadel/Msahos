@@ -1,0 +1,6 @@
+# Copy this file to android/key.properties and fill values for signed release builds.
+# Never commit real key.properties to version control.
+storeFile=../keystore/meshlink-release.jks
+storePassword=CHANGE_ME
+keyAlias=meshlink
+keyPassword=CHANGE_ME
