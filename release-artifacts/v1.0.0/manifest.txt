@@ -1,0 +1,8 @@
+MeshLink v1.0.0 release artifact
+
+File: meshlink-v1.0.0.apk
+SHA256: CF8A8B593888E8FF789D05A5195636F41122BE5D2FE12FD6E00A081120FA854E
+Built from: main branch
+Verification steps:
+1. certutil -hashfile meshlink-v1.0.0.apk SHA256
+2. Compare with SHA256 above
